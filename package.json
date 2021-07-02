@@ -12,7 +12,7 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
-  "homepage":"https://Modou-Lamin-Barrow.github.io.expense-tracker",
+  "homepage":"https://Modou-Lamin-Barrow.github.io/expense-tracker",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
